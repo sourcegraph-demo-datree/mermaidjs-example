@@ -1,4 +1,4 @@
-# mermaidjs-example
+# mermaid.js example
 
 This demonstrates how Sourcegraph for Chrome/Firefox renders [mermaid.js](https://mermaidjs.github.io/) diagrams on GitHub.
 
